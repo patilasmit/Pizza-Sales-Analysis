@@ -1,4 +1,5 @@
-# sql_practice_proj #
+# sql_practice_proj 
+sales_analysis_sql
 
 Project Title: Pizza Sales Analysis
 Project Overview:
